@@ -41,9 +41,14 @@
 
 位于界面最上方，用于一键切换不同的观察维度：
 
-* **2D 模式**: 经典的电压/电流驻波图。适合观察波腹、波节位置及包络线形状。  
-* **3D 模式**: 展现电磁波的本质——复数矢量螺旋。适合理解“驻波是由两个反向旋转的矢量合成”这一物理概念。  
+* **2D 模式**: 经典的电压/电流驻波图。适合观察波腹、波节位置及包络线形状。
+  <img width="2560" height="1528" alt="2d" src="https://github.com/user-attachments/assets/30a30478-a78c-4350-a32e-e99e2a13f1ad" />
+
+* **3D 模式**: 展现电磁波的本质——复数矢量螺旋。适合理解“驻波是由两个反向旋转的矢量合成”这一物理概念。
+   <img width="2560" height="1528" alt="3d" src="https://github.com/user-attachments/assets/63cd3db9-7d12-4082-8812-ec0f1541c0f4" />
+
 * **Smith 模式**: 动态史密斯圆图。适合进行阻抗匹配分析，观察负载点随参数的变化轨迹。
+   <img width="2560" height="1528" alt="史密斯圆图" src="https://github.com/user-attachments/assets/cea65542-8c31-43e3-88dd-69ca8f63af2e" />
 
 ### **3.2 左侧参数控制台 (Parameter Control)**
 
